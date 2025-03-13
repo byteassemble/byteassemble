@@ -1,7 +1,7 @@
 ## Hi everyone! 👋
 
 <div align="center">
-  <p style="font-size: 30px;">I am</p>
+  <p style="font-size: 50px;">I am</p>
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
 </div>
 
@@ -46,7 +46,7 @@
 
 ### Tools
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
