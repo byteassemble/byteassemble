@@ -1,13 +1,9 @@
 ## Hi everyone! 👋
 
-<!-- <p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p> -->
-
-<h3 align="center">
-I am
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Web3+Developer;Smart+Contract+Developer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
-</h3>
+<div align="center">
+  <h2>I am</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
+</div>
 
 ### Skills
 
@@ -19,7 +15,7 @@ I am
 - Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.
 - Chains: Ethereum, Binance Smart Chain(BSC), Polygon, Solana, Harmony, Cronos, Songbird, Aptos, zkSync, etc.
 
-#### Experiences
+### Experiences
 
 ###### NFT Mint Dapps In Several Chains
 
@@ -76,15 +72,15 @@ I am
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
