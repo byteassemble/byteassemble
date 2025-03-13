@@ -1,4 +1,4 @@
-## 👋 Hi everyone! 
+## 👋 Hi everyone!
 
 I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract development**. I build DeFi systems, NFT marketplaces, and cutting-edge blockchain solutions.
 
@@ -124,31 +124,23 @@ I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract de
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=radical&hide_border=true)
 
-![Web3 Developer](https://img.shields.io/badge/Web3-Developer-blueviolet?style=for-the-badge&logo=ethereum)
+<!-- ![Web3 Developer](https://img.shields.io/badge/Web3-Developer-blueviolet?style=for-the-badge&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-Developer-black?style=for-the-badge&logo=solidity)
 ![Rust](https://img.shields.io/badge/Rust-Developer-black?style=for-the-badge&logo=rust)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Developer-black?style=for-the-badge&logo=ethereum)
 ![Solana](https://img.shields.io/badge/Solana-Developer-black?style=for-the-badge&logo=solana)
-![Next.js](https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue-Developer-black?style=for-the-badge&logo=vue)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-Developer-black?style=for-the-badge&logo=nuxt.js)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-Developer-black?style=for-the-badge&logo=materialui)
-![Tailwind](https://img.shields.io/badge/Tailwind-Developer-black?style=for-the-badge&logo=tailwind)
 ![Anchor](https://img.shields.io/badge/Anchor-Developer-black?style=for-the-badge&logo=anchor)
+![Truffle](https://img.shields.io/badge/Truffle-Developer-black?style=for-the-badge&logo=truffle)
+![Hardhat](https://img.shields.io/badge/Hardhat-Developer-black?style=for-the-badge&logo=hardhat)
 ![Javascript](https://img.shields.io/badge/Javascript-Developer-black?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/Typescript-Developer-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-Developer-black?style=for-the-badge&logo=react)
-![Truffle](https://img.shields.io/badge/Truffle-Developer-black?style=for-the-badge&logo=truffle)
-![Hardhat](https://img.shields.io/badge/Hardhat-Developer-black?style=for-the-badge&logo=hardhat)
-![Foundry](https://img.shields.io/badge/Foundry-Developer-black?style=for-the-badge&logo=foundry)
-![Remix](https://img.shields.io/badge/Remix-Developer-black?style=for-the-badge&logo=remix)
-![Tenderly](https://img.shields.io/badge/Tenderly-Developer-black?style=for-the-badge&logo=tenderly)
-
+![Next.js](https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js) -->
 
 ## 🤝 Let's Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byteassembler-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sebastianwagiel)
 [![Telegram](https://img.shields.io/badge/Telegram-byteassembler-blue?style=flat&logo=telegram)](https://t.me/byteassembler)
 [![Discord](https://img.shields.io/badge/Discord-byteassembler-blue?style=flat&logo=discord)](https://discord.gg/byteassembler)
