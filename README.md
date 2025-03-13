@@ -46,7 +46,7 @@ I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract de
 ###### Explorer && Bridge
 
 - SwissDLT Bridge: https://swissdltbridge.com
-
+<!-- 
 ### Tools
 
 <table align="center" style="border: none;">
@@ -118,7 +118,7 @@ I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract de
     </td>
     
   </tr>
-</table>
+</table> -->
 
 ## 🔥 My Stats :
 
