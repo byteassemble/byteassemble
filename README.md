@@ -1,7 +1,7 @@
 ## Hi everyone! 👋
 
 <div align="center">
-  <h2>I am</h2>
+  <p style="font-size: 30px;">I am</p>
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
 </div>
 
@@ -72,15 +72,15 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="45" height="45" />
       <br>Typescript
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
       <br>React
     </td>
     <td align="center" width="90">
