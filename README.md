@@ -122,6 +122,8 @@ I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract de
 
 ## 🔥 My Stats :
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 <!-- ![Web3 Developer](https://img.shields.io/badge/Web3-Developer-blueviolet?style=for-the-badge&logo=ethereum)
