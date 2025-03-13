@@ -144,6 +144,7 @@ I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byteassembler-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sebastianwagiel)
 [![Telegram](https://img.shields.io/badge/Telegram-byteassembler-blue?style=flat&logo=telegram)](https://t.me/byteassembler)
 [![Discord](https://img.shields.io/badge/Discord-byteassembler-blue?style=flat&logo=discord)](https://discord.gg/byteassembler)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-byteassembler-blue?style=flat&logo=whatsapp)](https://wa.me/35799930783)
 
 <br />
 <br />
