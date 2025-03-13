@@ -1,8 +1,11 @@
 ## Hi everyone! 👋
 
+I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract development**. I build DeFi systems, NFT marketplaces, and cutting-edge blockchain solutions.
+
+## 🚀 I am...
+
 <div align="center">
-  <p style="font-size: 50px;">I am</p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=600&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
 </div>
 
 ### Skills
@@ -48,6 +51,14 @@
 
 <table align="center" style="border: none;">
   <tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=ethereum" width="45" height="45" alt="Ethereum" />
+    <br>Ethereum
+</td>
+<td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=solana" width="45" height="45" alt="Solana" />
+    <br>Solana
+</td>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
@@ -113,15 +124,15 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 
-<!-- #### Top Repositories
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=radical&hide_border=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a> -->
+![Web3 Developer](https://img.shields.io/badge/Web3-Developer-blueviolet?style=for-the-badge&logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-Developer-black?style=for-the-badge&logo=solidity)
+
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 
 <br />
 <br />
