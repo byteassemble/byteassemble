@@ -1,6 +1,6 @@
 ## 👋 Hi everyone!
 
-I'm a **Web3 Developer** specializing in **Solidity, Rust, and Smart Contract development**. I build DeFi systems, NFT marketplaces, and cutting-edge blockchain solutions.
+I'm a **Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contract development**. I build DeFi systems, NFT marketplaces, and cutting-edge blockchain solutions.
 
 ## 🚀 I am...
 
