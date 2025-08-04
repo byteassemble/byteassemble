@@ -1,12 +1,8 @@
-## 👋 Hi everyone!
+## 👋 Hi everyone! I'm
 
-I'm a **Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contract development**. I build DeFi systems, NFT marketplaces, and cutting-edge blockchain solutions.
+**Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contract development**, especially DeFi, DAO, Trading industries.
 
-## 🚀 I am...
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=600&height=60&lines=Web3+Developer;Smart+Contract+Developer;Solidity+and+Rust+Developer;Ethereum+and+Solana+Developer;" />
-</div>
+**FinTech & Finance Expert** with strong grasp behind Finance and Blockchain ecosystems that guarants me to succeed on these fields.
 
 ### Skills
 
@@ -18,34 +14,6 @@ I'm a **Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contr
 - Zero Knowledge Proof(ZKP) using CIRCOM & SNARKJS.
 - Chains: Ethereum, Binance Smart Chain(BSC), Polygon, Solana, Harmony, Cronos, Songbird, Aptos, zkSync, etc.
 
-### Experiences
-
-###### NFT Mint Dapps In Several Chains
-
-- PiracyPunks: https://www.piracypunks.com
-- HellDemons: https://helldemon.cryptoliveton.com
-- Ragnarregiment: https://theragnarregiment.com
-
-###### NFT Marketplaces
-
-- RealestClub: https://realest.club
-- RealestClub in Sepolia: https://realest.cryptoliveton.com
-- Audioburst: https://nft.audioburst.io
-- LunaChowNFT: https://lunachownft.com
-
-###### DEX && CEX
-
-- LuchowSwap  
-   BSC: https://bsc.luchowswap.com  
-   ETH: https://eth.luchowswap.com  
-   POLYGON: https://pol.luchowswap.com
-- CosmicSwap: https://app.cosmicswap.finance
-- MaticSwap: https://maticfront.web.app/farms
-- KangaExchange: https://kanga.exchange
-
-###### Explorer && Bridge
-
-- SwissDLT Bridge: https://swissdltbridge.com
 <!-- 
 ### Tools
 
@@ -120,9 +88,7 @@ I'm a **Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contr
   </tr>
 </table> -->
 
-## 🔥 My Stats :
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400" /> -->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteassemble&layout=compact&theme=vision-friendly-dark&hide_border=true) -->
 
@@ -138,13 +104,6 @@ I'm a **Senior Web3 Engineer** specializing in **Solidity, Rust, and Smart Contr
 ![Typescript](https://img.shields.io/badge/Typescript-Developer-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-Developer-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js) -->
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-byteassembler-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sebastianwagiel)
-[![Telegram](https://img.shields.io/badge/Telegram-byteassembler-blue?style=flat&logo=telegram)](https://t.me/byteassembler)
-[![Discord](https://img.shields.io/badge/Discord-byteassembler-blue?style=flat&logo=discord)](https://discord.gg/byteassembler)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-byteassembler-blue?style=flat&logo=whatsapp)](https://wa.me/35799930783)
 
 <br />
 <br />
